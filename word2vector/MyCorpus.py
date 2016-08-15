@@ -1,3 +1,4 @@
+#
 import global_list
 import jieba
 class MyCorpus(object):
